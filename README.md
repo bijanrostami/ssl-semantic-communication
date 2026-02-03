@@ -35,7 +35,7 @@ ssl-semantic-communication/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ssl-semantic-communication.git
+git clone https://github.com/bijanrostami/ssl-semantic-communication.git
 cd ssl-semantic-communication
 ```
 
@@ -132,7 +132,7 @@ If you use this code in your research, please cite:
   author = {Your Name},
   title = {SSL Semantic Communication},
   year = {2026},
-  url = {https://github.com/yourusername/ssl-semantic-communication}
+  url = {https://github.com/bijanrostami/ssl-semantic-communication}
 }
 ```
 
