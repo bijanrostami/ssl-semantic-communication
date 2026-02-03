@@ -118,23 +118,6 @@ Realistic wireless channel with:
 - **SNR-robust**: Trains with variable SNR to learn robust representations
 - **Modular design**: Easy to extend with new encoders, channels, or loss functions
 
-## Results
-
-Linear probe accuracy on CIFAR-10 test set (after 200 epochs):
-- **@10 dB SNR**: ~XX% (update with your results)
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@software{ssl_semantic_comm,
-  author = {Your Name},
-  title = {SSL Semantic Communication},
-  year = {2026},
-  url = {https://github.com/bijanrostami/ssl-semantic-communication}
-}
-```
 
 ## License
 
