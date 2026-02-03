@@ -123,6 +123,3 @@ Realistic wireless channel with:
 
 MIT License - see LICENSE file for details.
 
-## Contact
-
-For questions or issues, please open an issue on GitHub or contact: your.email@example.com
